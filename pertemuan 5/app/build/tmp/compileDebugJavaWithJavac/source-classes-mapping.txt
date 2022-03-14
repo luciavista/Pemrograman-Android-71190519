@@ -1,0 +1,2 @@
+com/example/pertemuan5/BuildConfig.java
+ com.example.pertemuan5.BuildConfig
