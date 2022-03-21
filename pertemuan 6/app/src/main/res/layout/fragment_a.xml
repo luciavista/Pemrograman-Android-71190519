@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fce1e4">
+
+    <TextView
+        android:id="@+id/frgmnA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fragment A"
+        android:textSize="26sp"
+        />
+
+    <Button
+        android:id="@+id/Hal2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/frgmnA"
+        android:layout_marginTop="40dp"
+        android:text="Halaman 2" />
+
+</FrameLayout>
