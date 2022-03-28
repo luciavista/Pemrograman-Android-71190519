@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pertemuan_7-2</string>
+    <string name="nomor">nomor</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+
+    <array name="image">
+        <item>@drawable/mama</item>
+        <item>@drawable/bapak</item>
+        <item>@drawable/mbak</item>
+        <item>@drawable/adik</item>
+    </array>
+
+    <string-array name="nama">
+        <item>Ibu</item>
+        <item>Ayah</item>
+        <item>Kakak</item>
+        <item>Adik</item>
+    </string-array>
+
+</resources>
